@@ -7,7 +7,7 @@ Setup files to use in setup before workshop in folder: [workshop_setup](https://
 - Instructions are in the pdf (and an editable version in .doc). 
 - Download the document and follow the setup instructions.
 
-All code is located [here](https://github.com/Adaptive-climate-information-tools/collaborative_python/code)
+All code is located [here]([https://github.com/Adaptive-climate-information-tools/collaborative_python/code](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/code))
 
 Extra data files needed to run the example code are located in a google drive [here](https://drive.google.com/drive/folders/142f27xonWnUYldLK4wD464to7n0I_8SA?usp=sharing)
 
