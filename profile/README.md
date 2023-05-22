@@ -1,12 +1,21 @@
-## Hi there 👋
+# Python climate tools for Ethiopia (REACH/WLRC/EMI/MOWE)
 
-<!--
+Files required for python workshop for climate information
 
-**Here are some ideas to get you started:**
+Setup files to use in setup before workshop in folder: [workshop_setup](https://github.com/ellendyer/python_workshop/tree/main/workshop_setup)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Instructions are in the pdf (and an editable version in .doc). 
+- Download the document and follow the setup instructions.
+
+All code is located [here](https://github.com/ellendyer/python_workshop/tree/main/code)
+
+Extra data files needed to run the example code are located in a google drive [here](https://drive.google.com/drive/folders/142f27xonWnUYldLK4wD464to7n0I_8SA?usp=sharing)
+
+Example plots are located [here](https://github.com/ellendyer/python_workshop/tree/main/plots)
+
+All shapefiles necessary to run this code are included for the [Awash Basin](https://github.com/ellendyer/python_workshop/tree/main/Awash), [Tana Basin](https://github.com/ellendyer/python_workshop/tree/main/LakeTana_WGS), and for [regional boundaries](https://github.com/ellendyer/python_workshop/tree/main/afr_g2014_2013_0).
+
+Instructions for using GitHub with Spyder are included [here](https://github.com/ellendyer/python_workshop/blob/main/Nov2022_workshop_files/workshop_github.docx)
+
+If you have any questions please email: ellen.dyer@ouce.ox.ac.uk
+
