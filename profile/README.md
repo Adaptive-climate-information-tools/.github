@@ -15,7 +15,7 @@ Example plots are located [here](https://github.com/Adaptive-climate-information
 
 All shapefiles necessary to run this code are included for the [Awash Basin](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/Awash), [Tana Basin](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/LakeTana_WGS), and for [regional boundaries](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/afr_g2014_2013_0).
 
-Instructions for using GitHub with Spyder are included [here](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/workshop_setup)
+Instructions for using GitHub with Spyder are included in the .pdf and .docx files [here](https://github.com/Adaptive-climate-information-tools/collaborative_python/tree/4fd6847bbafe03cd581c65766dd36a495aa6c6f0/workshop_setup)
 
 If you have any questions please email: ellen.dyer@ouce.ox.ac.uk
 
